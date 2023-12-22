@@ -52,8 +52,29 @@
 
 ![image](https://github.com/yinanericxue/Image-Stitching/assets/102645083/2f214bc8-c53a-4347-a970-6dd9d7ab1c3e)
 
+# Image Stitching
 
+#### BFMatcher - Brute-Force Matching
+#### https://docs.opencv.org/4.x/dc/dc3/tutorial_py_matcher.html
 
+#### knnMatch
+#### https://docs.opencv.org/4.x/db/d39/classcv_1_1DescriptorMatcher.html#a378f35c9b1a5dfa4022839a45cdf0e89
+#### https://opencv24-python-tutorials.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_matcher/py_matcher.html!
+
+#### findHomography
+#### https://stackoverflow.com/questions/60264322/which-inliers-is-the-ransac-algorithm-using-in-cv2-findhomography-to-find-the-ho
+#### https://docs.opencv.org/2.4/modules/calib3d/doc/camera_calibration_and_3d_reconstruction.html#findhomography
+![image](https://github.com/yinanericxue/Image-Stitching/assets/102645083/aee2d8d6-fa4e-4017-8f67-51b6b77cc239)
+
+#### warpPerspective
+#### https://docs.opencv.org/4.x/da/d54/group__imgproc__transform.html#gaf73673a7e8e18ec6963e3774e6a94b87
+#### https://blog.csdn.net/qq_18343569/article/details/47953843
+#### https://www.cnblogs.com/philip-tell-truth/p/8034019.html
+![image](https://github.com/yinanericxue/Image-Stitching/assets/102645083/dfb277e0-3fbd-446c-8ecb-43349e79fdc5)
+#### Transform the right image by using the H-Matrix:
+![image](https://github.com/yinanericxue/Image-Stitching/assets/102645083/3b2345b7-dfe2-4554-aaf4-172e3f4ec6bc)
+![image](https://github.com/yinanericxue/Image-Stitching/assets/102645083/18f78cd9-1567-47bc-991c-bd2b04d2de93)
+![image](https://github.com/yinanericxue/Image-Stitching/assets/102645083/2f1782f8-725f-4676-a2a5-3b9e73459576)
 
 
 
